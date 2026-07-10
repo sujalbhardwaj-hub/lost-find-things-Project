@@ -7,7 +7,7 @@ import Items from "./pages/Items";
 import Login from "./pages/Login";
 import Register from "./pages/Register";
 import Dashboard from "./pages/Dashboard";
-import Dashboard from "./pages/Dashboard";
+
 
 
 function App() {
